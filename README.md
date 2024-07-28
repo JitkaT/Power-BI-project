@@ -10,5 +10,5 @@ Vypracovat Power BI projekt, který splňuje následující kritéria:
     Využití bookmarks/page navigation
     Propojení více datových zdrojů, ať už v Power Query, nebo v Power BI
     Použití datové hierarchie o alespoň dvou úrovních
-    Vytvoření alespoň 1 measure (metrika/míra) a 1 kalkulovaného sloupce
+    Vytvoření 1 measure (metrika/míra) a 1 kalkulovaného sloupce
     Grafická úprava použitých vizuálů a vizuálně přívětivý výsledný report
